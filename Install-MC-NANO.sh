@@ -1,8 +1,10 @@
+#!/bin/sh
+#
 # This list of commands will install MC and NANO on systems
 # based on Scientific Linux 7.x, CentOS 7 or RedHat 7
 # 
 # This is targeting the installation as a generic user
-# if you don"t have root access to the host
+# if you don't have root access to the host
 #
 
 mkdir ~/bin
