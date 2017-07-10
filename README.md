@@ -1,8 +1,8 @@
-### This list of shell commands will install MC and NANO as a generic user on systems
-### based on Scientific Linux 7, CentOS 7 or RedHat 7
-# 
-### This project is targeting the installation as an unprivileged user
-### if you don"t have root access to the host, otherwise use yum install mc nano
+#### This list of shell commands will install MC and NANO as a generic user on systems
+#### based on Scientific Linux 7, CentOS 7 or RedHat 7
+#### 
+#### This project is targeting the installation as an unprivileged user
+#### if you don"t have root access to the host, otherwise use yum install mc nano
 #
 ```
 mkdir ~/bin
